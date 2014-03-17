@@ -1,14 +1,14 @@
 {
-  "name": "injecteable",
+  "name": "injectable",
   "version": "0.0.1",
   "description": "A webpack loader that turns a commonjs module into one whose dependencies can be injected",
-  "main": "injecteable.js",
+  "main": "injectable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jauco/webpack-injecteable"
+    "url": "https://github.com/jauco/webpack-injectable"
   },
   "keywords": [
     "webpack",
@@ -17,7 +17,7 @@
   "author": "Jauco Noordzij <code@jauco.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jauco/webpack-injecteable/issues"
+    "url": "https://github.com/jauco/webpack-injectable/issues"
   },
-  "homepage": "https://github.com/jauco/webpack-injecteable"
+  "homepage": "https://github.com/jauco/webpack-injectable"
 }
